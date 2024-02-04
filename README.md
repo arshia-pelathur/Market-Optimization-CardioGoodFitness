@@ -22,13 +22,13 @@ The dataset contains information about customers purchasing different types of t
 * Miles- expected to run
 
 ### Content Covered:
-* Data Cleaning
-      - Missing value analysis
-      - Outlier Analysis
-* EDA
-      - Univariate Analysis
-      - Bivariate Analysis
-      - 3 Feature Analysis
-* Customer Segmentation and Profiling
+* Data Cleaning<br>
+      - Missing value analysis<br>
+      - Outlier Analysis<br>
+* EDA<br>
+      - Univariate Analysis<br>
+      - Bivariate Analysis<br>
+      - 3 Feature Analysis<br>
+* Customer Segmentation and Profiling<br>
 * Business Recommendations
 
